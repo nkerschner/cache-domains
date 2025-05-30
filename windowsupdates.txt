@@ -18,7 +18,6 @@ bg.download.windowsupdate.com
 *.prod.do.dsp.mp.microsoft.com
 *.displaycatalog.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-*.licensing.mp.microsoft.com
 *.microsoft.com.akadns.net
 *.msftncsi.com
 *.officecdn.microsoft.com
@@ -33,7 +32,6 @@ officecdn.microsoft.com
 dlassets.xboxlive.com
 d1.xboxlive.com
 d2.xboxlive.com
-*.office365.com
 *.sharepoint.com
 *.onedrive.live.com
 *.1drv.ms
@@ -43,8 +41,6 @@ go.microsoft.com
 *.wustat.windows.com
 *.azureedge.net
 *.msecnd.net
-*.live.com
-*.hotmail.com
 *.microsoft.com.nsatc.net
 *.microsoft.com.edgesuite.net
 *.microsoft.akadns.net
