@@ -23,6 +23,7 @@ bg.download.windowsupdate.com
 *.au.download.windowsupdate.com
 *.emdl.ws.microsoft.com
 *.tlu.dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 *.ctldl.windowsupdate.com
 *.prod.do.dsp.mp.microsoft.com
 *.displaycatalog.mp.microsoft.com
