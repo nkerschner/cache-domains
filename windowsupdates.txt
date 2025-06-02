@@ -13,6 +13,7 @@ update.microsoft.com
 *.dl.delivery.mp.microsoft.com
 *.fe3.delivery.mp.microsoft.com
 *.fe3cr.delivery.mp.microsoft.com
+fe3cr.delivery.mp.microsoft.com
 download.microsoft.com
 *.download.microsoft.com
 download.windowsupdate.com
