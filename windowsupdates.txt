@@ -26,6 +26,7 @@ bg.download.windowsupdate.com
 *.tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 *.ctldl.windowsupdate.com
+ctldl.windowsupdate.com
 *.prod.do.dsp.mp.microsoft.com
 *.displaycatalog.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
