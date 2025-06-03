@@ -27,7 +27,7 @@ bg.download.windowsupdate.com
 tlu.dl.delivery.mp.microsoft.com
 *.ctldl.windowsupdate.com
 ctldl.windowsupdate.com
-*.prod.do.dsp.mp.microsoft.com
+*.do.dsp.mp.microsoft.com
 *.displaycatalog.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 *.microsoft.com.akadns.net
@@ -35,7 +35,7 @@ storeedgefd.dsx.mp.microsoft.com
 *.officecdn.microsoft.com
 officecdn.microsoft.com
 *.office.net
-*.officecdn.microsoft.com.edgesuite.net
+*.microsoft.com.edgesuite.net
 *.vortex.data.microsoft.com
 *.apps.microsoft.com
 *.store.microsoft.com
@@ -49,3 +49,8 @@ go.microsoft.com
 *.microsoft.com.nsatc.net
 *.microsoft.com.edgesuite.net
 *.microsoft.akadns.net
+amupdatedl.microsoft.com
+amupdatedl2.microsoft.com
+amupdatedl3.microsoft.com
+amupdatedl4.microsoft.com
+amupdatedl5.microsoft.com
