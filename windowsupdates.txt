@@ -35,14 +35,12 @@ storeedgefd.dsx.mp.microsoft.com
 officecdn.microsoft.com
 *.office.net
 *.microsoft.com.edgesuite.net
-*.vortex.data.microsoft.com
 *.apps.microsoft.com
 *.store.microsoft.com
 productservices.apps.microsoft.com
 *.wd.microsoft.com
 definitionupdates.microsoft.com
 go.microsoft.com
-*.wustat.windows.com
 *.azureedge.net
 *.msecnd.net
 *.microsoft.com.nsatc.net
