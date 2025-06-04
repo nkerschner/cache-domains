@@ -40,7 +40,6 @@ officecdn.microsoft.com
 productservices.apps.microsoft.com
 *.wd.microsoft.com
 definitionupdates.microsoft.com
-go.microsoft.com
 *.azureedge.net
 *.msecnd.net
 *.microsoft.com.nsatc.net
